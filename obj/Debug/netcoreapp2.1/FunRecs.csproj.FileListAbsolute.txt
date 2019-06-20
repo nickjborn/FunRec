@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\gcworkspace\FunRecs\bin\Debug\netcoreapp2.1\FunRecs.deps.json
+C:\Users\Nick\Documents\gcworkspace\FunRecs\bin\Debug\netcoreapp2.1\FunRecs.runtimeconfig.json
+C:\Users\Nick\Documents\gcworkspace\FunRecs\bin\Debug\netcoreapp2.1\FunRecs.runtimeconfig.dev.json
+C:\Users\Nick\Documents\gcworkspace\FunRecs\bin\Debug\netcoreapp2.1\FunRecs.dll
+C:\Users\Nick\Documents\gcworkspace\FunRecs\bin\Debug\netcoreapp2.1\FunRecs.pdb
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.AssemblyInfo.cs
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.dll
+C:\Users\Nick\Documents\gcworkspace\FunRecs\obj\Debug\netcoreapp2.1\FunRecs.pdb
